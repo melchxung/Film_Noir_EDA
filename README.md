@@ -4,7 +4,7 @@
   - cluser the songs so each row is a song
   - easier to analyze musical/lyrical patterns across the album
   
-- Background: Faouzia Ouihya is a Moroccan-Canadian singer who released her debut album Film Noir on 11/7/2025.
+- Background: Faouzia Ouihya is a Moroccan-Canadian singer who released her debut album [Film Noir](https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ) on 11/7/2025.
 
 ### Dataset
  - using Spotify API pull for each track if possible:
