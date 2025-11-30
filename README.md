@@ -1,4 +1,4 @@
-# project0
+# Exploratory Data Analysis of the Album Film Noir
 
 - Goal: create a customer segmentation & clustering data project
 - from: https://www.youtube.com/watch?v=iwUli5gIcU0&list=PLi5spBcf0UMXfbMt1X2bHQkk7mHXkTUhs&index=2
@@ -8,3 +8,7 @@
 
 - End Results
   - document everything in the README code w the data analysis
+
+##Steps
+- create vs code project in .venv
+- imported libraries pands, seaborn, matplotlib, sklearn
