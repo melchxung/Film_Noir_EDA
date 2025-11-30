@@ -1,4 +1,4 @@
-# Exploratory Data Analysis of the Album Film Noir
+# Album Film Noir Exploratory Data Analysis 
 
 - Goal: Preform data analysis on Film Noir by Faouzia
   - cluser the songs so each row is a song
