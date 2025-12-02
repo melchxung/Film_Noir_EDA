@@ -18,6 +18,33 @@
     - liveness
     - loudness
     - speechiness
+    - popularity
+
+    Get Several Tracks
+    - pupularity
+
+    track audio analysis
+    - num_samples
+    - duration (sec) - want to find the one in (ms)
+    - loudness
+    - tempo
+    - time_signatue
+    - key
+    - mode
+    - beats?
+
+    track audio features
+    - acousticness
+    - dancability
+    - energy
+    - instrumentalness
+    - key
+    - liveness
+    - loudness
+    - speechiness
+    - tempo
+    - time_signature
+    - valence
   - Lyric Features
    - sentiment polarity
    - subjectivity
