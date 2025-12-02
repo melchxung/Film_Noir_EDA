@@ -19,19 +19,18 @@
     - loudness
     - speechiness
     - popularity
-
+-----
     Get Several Tracks
     - pupularity
 
     track audio analysis
-    - num_samples
     - duration (sec) - want to find the one in (ms)
+    - mode
+   
     - loudness
     - tempo
     - time_signatue
     - key
-    - mode
-    - beats?
 
     track audio features
     - acousticness
@@ -45,6 +44,8 @@
     - tempo
     - time_signature
     - valence
+------
+    
   - Lyric Features
    - sentiment polarity
    - subjectivity
