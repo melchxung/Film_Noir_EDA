@@ -21,18 +21,12 @@
     - popularity
 -----
     Get Several Tracks
-    - pupularity
-
-    track audio analysis
-    - duration (sec) - want to find the one in (ms)
-    - mode
-   
-    - loudness
-    - tempo
-    - time_signatue
-    - key
+    - popularity
+    - explisit
 
     track audio features
+    - mode
+    - duration (ms)
     - acousticness
     - dancability
     - energy
