@@ -5,6 +5,13 @@
   - easier to analyze musical/lyrical patterns across the album
   
 - Background: Faouzia Ouihya is a Moroccan-Canadian singer who released her debut album [Film Noir](https://open.spotify.com/album/0FffqcK2whBazSFcAIxebQ) on 11/7/2025.
+ 
+- Conclusion was not able to finish project/pull data b/c Spotify depreciated gettting track's audio features, and audio analysis :(
+
+
+
+
+
 
 ### Dataset
  - using Spotify API pull for each track if possible:
