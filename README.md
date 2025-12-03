@@ -9,7 +9,7 @@
 - Conclusion was not able to finish project/pull data b/c Spotify depreciated gettting track's audio features, and audio analysis :(
   - might j do EDA on track metadata to still practice pulling data, creating.csv, and preforming analysis but sad bruh
 
-
+[helpful for cleaning code](https://cupofcode.blog/spotify-api/)
 
 
 
